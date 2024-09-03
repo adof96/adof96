@@ -1,14 +1,12 @@
 <div id="header" align="center">
   <img decoding="async" src="https://https://[github.com/adof96/adof96/blob/main/Banner%20github.png](https://github.com/adof96/adof96/blob/main/Banner%20adof.png)" width="800"/>
 </div>
-<!--
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-david-ortiz-flores-796002283)
 <h1>
   Hi my name is Angel. Pleasure to meet you!!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
----
  <div id="header" align="left">
 
 ### :man_technologist: About me:
