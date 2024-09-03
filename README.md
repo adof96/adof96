@@ -1,4 +1,3 @@
-## Hi there 👋
 <div id="header" align="center">
   <img decoding="async" src="https://https://[github.com/adof96/adof96/blob/main/Banner%20github.png](https://github.com/adof96/adof96/blob/main/Banner%20adof.png)" width="800"/>
 </div>
