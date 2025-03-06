@@ -14,7 +14,7 @@ Im a Mechanical Electrical engineer that has take interest in the IT world. I'm 
 
 ### :man_technologist: About me:
 
-- 🔭 I’m currently working on my final proyect for a bootcamp im taking with tripleten as a data scientist
+- 🔭 I’m currently learning extra skills with datacamp to be a better data scientist
 - 👯 I’m looking to collaborate on some proyects that help me get experience in the IT world
 - 📫 How to reach me: adof_blink_182@hotmail.com or adofsam2@gmail.com
 - ⚡ Fun fact: I got interest in this branch thanks to an instagram add and i got hooked😂 
